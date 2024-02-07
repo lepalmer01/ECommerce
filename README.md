@@ -15,6 +15,7 @@ This project focuses on the back end for an e-commerce site. Leveraging Object-R
 - [Tests](#tests)
 - [Questions](#questions)
 - [Credits](#credits)
+
 ## Installation
 
 To get started, clone this repository to your local machine. You will need Node.js, MySQL, and npm installed to run this application.
@@ -63,9 +64,8 @@ Test the API routes using Insomnia or a similar API client to ensure all endpoin
 
 If you have any questions or comments about this project, please feel free to contact me.
 
-- [Your GitHub Profile](<Your GitHub Profile Link>)
-- [Your Email](<Your Email>)
-
+- [GitHub Profile](https://github.com/lepalmer01)
+- [Email](lpalmer@live.com)
 
 ## Credits
 
