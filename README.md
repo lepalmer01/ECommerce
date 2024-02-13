@@ -12,7 +12,6 @@ This project focuses on the back end for an e-commerce site. Leveraging Object-R
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 - [Credits](#credits)
 
@@ -34,7 +33,7 @@ To use this application:
 
 ## Demonstration
 
-- [Link to Walkthrough Video](<Your Walkthrough Video Link Here>)
+- [Link to Walkthrough Video](<https://drive.google.com/file/d/1mJKEgFT0LItbBpdsk5KlOl8Owy4hQGeB/view?usp=share_link>)
 
 This video demonstrates the functionality of the API, including all acceptance criteria being met.
 
@@ -56,10 +55,6 @@ This video demonstrates the functionality of the API, including all acceptance c
 
 Contributions are welcome. Please fork the repository and submit a pull request with your updates.
 
-## Tests
-
-Test the API routes using Insomnia or a similar API client to ensure all endpoints perform as expected.
-
 ## Questions
 
 If you have any questions or comments about this project, please feel free to contact me.
@@ -69,4 +64,4 @@ If you have any questions or comments about this project, please feel free to co
 
 ## Credits
 
-Thank you for the tips and suggestions from Bootcamp instructors, learning assistants, classmates, and resources. Thank you to my tutor Sara for insights regarding my code. I have used http://www.stackoverflow.com, and https://chat.openai.com to research information. Lastly,thanks to OpenAI's Chatgpt-4 for help in creating this README.md template.
+Thank you for the tips and suggestions from Bootcamp instructors, learning assistants, classmates, and resources. Thank you to my tutor Sara and Rene for insights regarding my code. I have used http://www.stackoverflow.com, and https://chat.openai.com to research information. Lastly,thanks to OpenAI's Chatgpt-4 for help in creating this README.md template.
